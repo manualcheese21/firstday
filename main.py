@@ -1,0 +1,15 @@
+print("hello world")
+name = input(("What is your name? "))
+print()
+print("Hello " + name )
+print()
+color = input(("What is your faviorate color? "))
+print()
+print("Your faviorate color is " + color)
+score = 0
+health = 100
+print(score)
+print()
+print(health)
+print()
+print(name)
